@@ -18,7 +18,7 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 - [x]  Değişiklikleri GitHub'a Taşıma
 - [x]  Standart İş Akışı
 
-Ekstra değişikler...
+Ekstra değişiklikler...
 
 ---
 
